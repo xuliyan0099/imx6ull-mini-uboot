@@ -1,0 +1,6 @@
+# 上游源码与产物，由 tools/fetch.sh / tools/build.sh 生成
+/src/
+/out/
+*.o
+*.a
+*.su
